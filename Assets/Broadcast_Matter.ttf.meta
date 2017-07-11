@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58ec75dca1109d348868b7aaf65d60ab
+timeCreated: 1499727325
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Broadcast Matter
+  fontNames:
+  - Broadcast Matter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

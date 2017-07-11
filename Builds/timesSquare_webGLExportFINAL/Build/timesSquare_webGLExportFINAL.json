@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "timesSquare_webGLExportFINAL.data.unityweb",
+"asmCodeUrl": "timesSquare_webGLExportFINAL.asm.code.unityweb",
+"asmMemoryUrl": "timesSquare_webGLExportFINAL.asm.memory.unityweb",
+"asmFrameworkUrl": "timesSquare_webGLExportFINAL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
